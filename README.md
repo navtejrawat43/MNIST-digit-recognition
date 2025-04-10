@@ -1,5 +1,5 @@
-# MNIST-digit-recognition
-🧠 MNIST Digit Recognition
+# Handwritten Digit Recognisiton using CNN
+🧠 Handwritten Digit Recognisiton using CNN
 A simple and interactive digit recognition system using the MNIST dataset. This project features a GUI built with Tkinter, allowing users to draw digits on a canvas and get real-time predictions from a pre-trained neural network.
 
 
